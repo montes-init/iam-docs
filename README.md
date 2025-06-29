@@ -1,6 +1,6 @@
 # IAM Docs & Homelab Security Playbook
 
-This repo contains Identity and Access Management documentation, access policies, standard operating procedures (SOPS), and configuration notes for homelab and cloud enviroments.
+This repository contains Identity and Access Management documentation, access policies, standard operating procedures (SOPs), and configuration notes for homelab and cloud environments.
 
 ## Sections
 - `SOPs/`: Onboarding, offboarding, least privilege checklists
@@ -8,4 +8,8 @@ This repo contains Identity and Access Management documentation, access policies
 - `Diagrams/`: Role relationships, trust flows
 - `Notes/`: Concepts, learning progress, cloud security notes
 - `Tools/`: Scripts and Terraform configurations
+
+---
+
+_Homelab IAM documentation – includes SOPs, AWS IAM policies, Terraform configs, and cloud security notes._
 
